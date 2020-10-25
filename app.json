@@ -1,0 +1,11 @@
+{
+  "name": "Avalanche-Training",
+  "displayName": "Avalanche-Training",
+  "expo": {
+    "name": "Avalanche-Training",
+    "slug": "Avalanche-Training",
+    "orientation": "portrait",
+    "version": "0.2.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
